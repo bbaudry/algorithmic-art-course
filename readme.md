@@ -1,6 +1,6 @@
-# IFT 6251 Are algoritmique
+# ift 6251 :art algoritmique:
 
-Ce cours a lieu le mardi et le jeudi, au pavillon André Ainsenstadt. Mardi de 15h30 à 17h30 en 1411, et jeudi de 15h30 à 17h30 en 1207.
+Ce cours a lieu le mardi et le jeudi, au pavillon André Ainsenstadt. Mardi de 15h30 à 17h30 en 1411, et jeudi de 15h30 à 17h30 en 1207. Les intentions du cours sont exprimées [ici](plan-cours.md)
 
 Chaque étudiant doit effectuer, présenter, partager, contribuer 5 exercices
 - une oeuvre algorithmique à partir de [genuary 2025](https://genuary.art/prompts#jan9)
