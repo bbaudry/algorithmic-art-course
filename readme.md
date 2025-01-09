@@ -1,66 +1,71 @@
-# IFT 6251 Algorithmic art course ([version française](https://github.com/bbaudry/algorithmic-art-course/blob/main/README.md#cours-dart-algorithmique-%C3%A0-luniversit%C3%A9-de-montr%C3%A9al))
+# IFT 6251 Are algoritmique
 
-This course will take place at Université de Montréal, starting on January 8, 2025.
+Ce cours a lieu le mardi et le jeudi, au pavillon André Ainsenstadt. Mardi de 15h30 à 17h30 en 1411, et jeudi de 15h30 à 17h30 en 1207.
 
-Contact: Benoit Baudry, <baudry@iro.umontreal.ca>
+Chaque étudiant doit effectuer, présenter, partager, contribuer 5 exercices
+- une oeuvre algorithmique à partir de [genuary 2025](https://genuary.art/prompts#jan9)
+- une oeuvre algorithmique à partir d'un algorithme existant
+- une oeuvre algorithmique à partir de données
+- une présentation d'un article de recherche
+- une oeuvre algorithmique pour le vernissage
 
-## Course philosophy
+Chaque exercice sera présenté en cours rendu sous la forme d'un lien vers un repo open source. Toutes les oeuvres doivent utiliser des technologies open source.
 
-Learn about open source software environments and practices for generative digital art.
-Computer science students dive into the technical challenges of algorithmic art, beyond the utilitarian aspects of software .
-Artists and designers dive into open source software and the diversity of techniques it offers for algorithmic art.
+Les 3 premiers exercices seront des oeuvres purement numériques qui peuvent être montrées et ajustées live, en classe. Elles seront essentiellement visuelles et peuvent inclure des éléments sonores.
 
-## Course contents
+Le format de l'oeuvre présentée pour le vernissage est libre. 
 
-- The tradition of algorithmic art
-- Software environments for generative art
-- Software environments for live coding
-- Research in software for art
-- The material for the course if available in [this repository's issues](https://github.com/rethread-studio/algorithmic-art-course/issues)
-  
-## Intended learning outcomes
+# Semaine 1 (9 janvier)
+ - introduction
+ - inspirations:
+   - [Éloge de l’ordinateur dans les arts visuels](http://www.veramolnar.com/blog/wp-content/uploads/VM1984_eloge.pdf). Vera Molnar, 1984
+   - [A Longer History of Generative Art](https://www.rightclicksave.com/article/a-longer-history-of-generative-art). Nick Lambert, 2022.
 
-- design, develop and run a piece of algorithmic art
-- use diverse software environments for algorithmic art
-- use and develop open source software for algorithmic art
-- perform algorithmic art for live coding
+# Semaine 2 (14, 16 janvier)
+ - fondamentaux, histoire, langages
+ - inspirations
+   - [The Algorithmic Dimension: Five Artists in Conversation](https://link.springer.com/content/pdf/10.1007/978-3-319-61167-9.pdf)
+   - [Open-Source Software Toolkits](https://github.com/CreativeInquiry/OSSTA-Report)
+   - [artistes contemporains](https://github.com/rethread-studio/algorithmic-art-course/issues/12)
 
-## Prerequisites
-- know how to program in one language at least (Rust, Javascript, Java, Python). The fundamentals of programming for arts are introduced by [Daniel Shiffman](https://thecodingtrain.com/).
-- knowledge of Git
-- enjoy writing and executing code
-- have a strong interest in graphics and visual arts
+# Semaine 3 (21, 23 janvier)
+- une [genuary 2025](https://genuary.art/prompts#jan9)
+- présentations d'étudiants
 
-# Cours d'art algorithmique à l'Université de Montréal 
+# Semaine 4 (28, 30 janvier)
+- une [genuary 2025](https://genuary.art/prompts#jan9)
+- présentations d'étudiants
 
-Ce repo reassemble les resources et les contributions pour le cours IFT6251. 
+# Semaine 5 (04, 06 février)
+- un algorithme
+- présentations d'étudiants
 
-Contact: Benoit Baudry, <baudry@iro.umontreal.ca>
+# Semaine 6 (11, 13 février)
+- un algorithme
+- présentations d'étudiants
 
-## Philosophie du cours
+# Semaine 7 (18, 20 février)
+- recherche pour data art et vernissage
 
-Découvrez les environnements logiciels open source et les pratiques pour l’art numérique génératif.
-Les étudiants en informatique plongent dans les défis techniques de l'art algorithmique, au-delà des aspects utilitaires du logiciel.
-Les artistes et les designers se plongent dans le logiciel open source et la diversité des techniques qu'il offre pour l'art algorithmique.
+# Semaine 8 (25, 27 février)
+- data art
+- présentations d'étudiants
 
-## Contenu du cours
+# Semaine 9 (11, 13 mars)
+- data art
+- présentations d'étudiants
 
-- La tradition de l'art algorithmique
-- Environnements logiciels pour l'art génératif
-- Environnements logiciels pour le live coding
-- Recherche en logiciel pour l'art
-- La documentation pour le cours est disponible dans [issues de ce repo](https://github.com/rethread-studio/algorithmic-art-course/issues)
+# Semaine 10 (18, 20 mars)
+- un article
+- présentations d'étudiants
 
-  
-## Compétences acquises
+# Semaine 11 (25, 27 mars)
+- un article
+- présentations d'étudiants
 
-- concevoir, développer et exécuter une œuvre d'art algorithmique. 
-- utiliser divers environnements logiciels pour l'art algorithmique
-- utiliser et développer du logiciel open source pour l'art algorithmique
-- mettre en scène de l'art algorithmique pour live coding
+# Semaine 12 (01, 03 avril)
+- vernissage
+- présentations d'étudiants
 
-## Prérequis
-- savoir programmer dans au moins un langage (Rust, Javascript, Java, Python). Les bases de la programmation pour l'art sont introduites par [Daniel Shiffman](https://thecodingtrain.com/).
-- connaissance de Git
-- aimer écrire et exécuter du code
-- avoir un fort intérêt pour le graphisme et les arts visuels
+# Semaine 13 (08, 10 avril)
+- vernissage
