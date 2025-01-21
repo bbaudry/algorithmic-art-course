@@ -29,19 +29,23 @@ Le format de l'oeuvre présentée pour le vernissage est libre.
    - [artistes contemporains](https://github.com/rethread-studio/algorithmic-art-course/issues/12)
 
 # Semaine 3 (21, 23 janvier)
+- [inspiration](https://www.rightclicksave.com/article/the-power-of-processing-casey-reas-and-lauren-lee-mccarthy-interview-generative-art)
 - une [genuary 2025](https://genuary.art/prompts#jan9)
 - présentations d'étudiants
 
 # Semaine 4 (28, 30 janvier)
+- [inspiration](https://www.sfmoma.org/read/drawing-with-instructions/)
 - une [genuary 2025](https://genuary.art/prompts#jan9)
 - présentations d'étudiants
 
 # Semaine 5 (04, 06 février)
-- un algorithme
+- [inspiration](https://unframed.lacma.org/2024/11/13/digital-art-kind-performance-qa-casey-reas)
+- un [algorithme](algorithms.md)
 - présentations d'étudiants
 
 # Semaine 6 (11, 13 février)
-- un algorithme
+- [inspiration](https://www.rightclicksave.com/article/in-search-of-generative-art-history)
+- un [algorithme](algorithms.md)
 - présentations d'étudiants
 
 # Semaine 7 (18, 20 février)
@@ -64,6 +68,7 @@ Le format de l'oeuvre présentée pour le vernissage est libre.
 - présentations d'étudiants
 
 # Semaine 12 (01, 03 avril)
+- [inspiration](https://www.rightclicksave.com/article/the-power-of-the-plotter-generative-art-aleksandra-jovanic-julien-gachadoat-feral-file-graph-interview)
 - vernissage
 - présentations d'étudiants
 
